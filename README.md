@@ -6,5 +6,9 @@ List of useful plugins, libraries and frameworks
 - [Slick](https://kenwheeler.github.io/slick/) - responsive carousel
 - [Photoswipe](http://photoswipe.com/) - photo gallery
 - [CSS-Element-Queries](https://marcj.github.io/css-element-queries/) - css element queries polyfill
+- [Remodal](https://github.com/VodkaBears/Remodal) - modals
+- [Tooltipster](http://iamceege.github.io/tooltipster/) - tooltips
 
 
+## Lists
+- [Vanilla List](http://www.vanillalist.com/) - list of vanilla JS plugins

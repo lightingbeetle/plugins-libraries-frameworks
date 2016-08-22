@@ -8,6 +8,7 @@ List of useful plugins, libraries and frameworks
 - [CSS-Element-Queries](https://marcj.github.io/css-element-queries/) - css element queries polyfill
 - [Remodal](https://github.com/VodkaBears/Remodal) - modals
 - [Tooltipster](http://iamceege.github.io/tooltipster/) - tooltips
+- [Percircle](https://github.com/toubou91/percircle) - pure CSS/JS donut (circle) chart
 
 
 ## Lists

@@ -9,6 +9,7 @@ List of useful plugins, libraries and frameworks
 - [Remodal](https://github.com/VodkaBears/Remodal) - modals
 - [Tooltipster](http://iamceege.github.io/tooltipster/) - tooltips
 - [Percircle](https://github.com/toubou91/percircle) - pure CSS/JS donut (circle) chart
+- [Toastr](https://github.com/johnpapa/toastr-bower) - toaster type notifications
 
 
 ## Lists

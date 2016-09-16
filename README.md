@@ -10,6 +10,7 @@ List of useful plugins, libraries and frameworks
 - [Tooltipster](http://iamceege.github.io/tooltipster/) - tooltips
 - [Percircle](https://github.com/toubou91/percircle) - pure CSS/JS donut (circle) chart
 - [Toastr](https://github.com/johnpapa/toastr-bower) - toaster type notifications
+- [Dragula](https://github.com/bevacqua/dragula) - drag & drop plugin
 
 
 ## Lists

@@ -12,6 +12,7 @@ List of useful plugins, libraries and frameworks
 - [Toastr](https://github.com/johnpapa/toastr-bower) - toaster type notifications
 - [Dragula](https://github.com/bevacqua/dragula) - drag & drop plugin
 - [Air Datepicker](https://github.com/t1m0n/air-datepicker) - modern (flexbox) datepicker (including sass config)
+- [Reframe.js](https://dollarshaveclub.github.io/reframe.js) - make non-responsive elements responsive (no jQuery)
 
 
 ## Lists
